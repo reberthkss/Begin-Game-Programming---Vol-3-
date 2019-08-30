@@ -1,0 +1,4 @@
+﻿  Janela dos garoto do youtube.cpp
+C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 2 - Game Loop\Janela\Janela dos garoto do youtube.cpp(40,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 2 - Game Loop\Janela\Janela dos garoto do youtube.cpp(136,12): warning C4244:  'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Janela.vcxproj -> C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 2 - Game Loop\x64\Debug\Janela.exe

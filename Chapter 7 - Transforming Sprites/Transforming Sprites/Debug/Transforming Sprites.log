@@ -1,0 +1,7 @@
+﻿  MyDirectX.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Reberth\OneDrive\Chapter 7 - Transforming Sprites\Transforming Sprites\MyDirectX.cpp(131,23): warning C4244:  'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 7 - Transforming Sprites\Transforming Sprites\MyDirectX.cpp(131,20): warning C4244:  'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 7 - Transforming Sprites\Transforming Sprites\MyDirectX.cpp(209,11): warning C4838:  conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+C:\Users\Reberth\OneDrive\Chapter 7 - Transforming Sprites\Transforming Sprites\MyDirectX.cpp(210,11): warning C4838:  conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+  Transforming Sprites.vcxproj -> C:\Users\Reberth\OneDrive\Chapter 7 - Transforming Sprites\Debug\Transforming Sprites.exe

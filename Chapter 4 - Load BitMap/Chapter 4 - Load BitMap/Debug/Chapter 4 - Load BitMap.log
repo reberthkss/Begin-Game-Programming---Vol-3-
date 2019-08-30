@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Reberth\OneDrive\Chapter 4 - Load BitMap\Chapter 4 - Load BitMap\main.cpp(6,34): warning C4081:  expected 'newline'; found ';'
+C:\Users\Reberth\OneDrive\Chapter 4 - Load BitMap\Chapter 4 - Load BitMap\main.cpp(7,35): warning C4081:  expected 'newline'; found ';'
+C:\Users\Reberth\OneDrive\Chapter 4 - Load BitMap\Chapter 4 - Load BitMap\main.cpp(59,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\Reberth\OneDrive\Chapter 4 - Load BitMap\Debug\Chapter 4 - Load BitMap.exe not found or not built by the last incremental link; performing full link
+  Chapter 4 - Load BitMap.vcxproj -> C:\Users\Reberth\OneDrive\Chapter 4 - Load BitMap\Debug\Chapter 4 - Load BitMap.exe

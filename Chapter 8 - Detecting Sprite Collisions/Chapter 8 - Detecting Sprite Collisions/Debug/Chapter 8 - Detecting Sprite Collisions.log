@@ -1,0 +1,25 @@
+﻿  MyDirectX.cpp
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(132,23): warning C4244:  'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(132,20): warning C4244:  'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(206,32): warning C4244:  '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(207,33): warning C4244:  '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(213,32): warning C4244:  '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(214,33): warning C4244:  '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(238,26): warning C4244:  'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(238,22): warning C4244:  'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(249,26): warning C4244:  'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(249,22): warning C4244:  'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(321,11): warning C4838:  conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+  MyGame.cpp
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyDirectX.cpp(322,11): warning C4838:  conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(79,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(86,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(144,46): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(144,38): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(145,60): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(145,47): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(146,60): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  MyWindows.cpp
+  Generating Code...
+C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Chapter 8 - Detecting Sprite Collisions\MyGame.cpp(146,47): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Chapter 8 - Detecting Sprite Collisions.vcxproj -> C:\Users\Reberth\OneDrive\Chapter 8 - Detecting Sprite Collisions\Debug\Chapter 8 - Detecting Sprite Collisions.exe

@@ -1,0 +1,5 @@
+﻿  DrawingSurface.cpp
+C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 4 - Drawing Bitmaps\Chapter 4 - Drawing Bitmaps\DrawingSurface.cpp(6,34): warning C4081:  esperado 'newline'; encontrado ';'
+C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 4 - Drawing Bitmaps\Chapter 4 - Drawing Bitmaps\DrawingSurface.cpp(7,35): warning C4081:  esperado 'newline'; encontrado ';'
+C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 4 - Drawing Bitmaps\Chapter 4 - Drawing Bitmaps\DrawingSurface.cpp(59,12): warning C4244:  'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Chapter 4 - Drawing Bitmaps.vcxproj -> C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 4 - Drawing Bitmaps\Debug\Chapter 4 - Drawing Bitmaps.exe

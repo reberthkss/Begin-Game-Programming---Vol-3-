@@ -1,0 +1,16 @@
+﻿DrawingSurface.obj : error LNK2005: "void __cdecl Game_End(struct HWND__ *)" (?Game_End@@YAXPEAUHWND__@@@Z) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "bool __cdecl Game_Init(struct HWND__ *)" (?Game_Init@@YA_NPEAUHWND__@@@Z) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "void __cdecl Game_Run(struct HWND__ *)" (?Game_Run@@YAXPEAUHWND__@@@Z) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "__int64 __cdecl WinProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WinProc@@YA_JPEAUHWND__@@I_K_J@Z) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: WinMain already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "struct IDirect3D9 * d3d" (?d3d@@3PEAUIDirect3D9@@EA) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "struct IDirect3DDevice9 * d3ddev" (?d3ddev@@3PEAUIDirect3DDevice9@@EA) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "struct IDirect3DSurface9 * backbuffer" (?backbuffer@@3PEAUIDirect3DSurface9@@EA) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "struct IDirect3DSurface9 * surface" (?surface@@3PEAUIDirect3DSurface9@@EA) already defined in LoadBitMap.obj
+DrawingSurface.obj : error LNK2005: "bool gameover" (?gameover@@3_NA) already defined in LoadBitMap.obj
+LoadBitMap.obj : error LNK2019: unresolved external symbol Direct3DCreate9 referenced in function "bool __cdecl Game_Init(struct HWND__ *)" (?Game_Init@@YA_NPEAUHWND__@@@Z)
+DrawingSurface.obj : error LNK2001: unresolved external symbol Direct3DCreate9
+LoadBitMap.obj : error LNK2019: unresolved external symbol D3DXLoadSurfaceFromFileA referenced in function "bool __cdecl Game_Init(struct HWND__ *)" (?Game_Init@@YA_NPEAUHWND__@@@Z)
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Reberth\Dropbox\Game Programming - Book\Chapter 4 - Drawing Bitmaps\x64\Debug\Chapter 4 - Drawing Bitmaps.exe : fatal error LNK1120: 2 unresolved externals
